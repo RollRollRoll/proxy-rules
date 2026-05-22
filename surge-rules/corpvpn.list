@@ -1,0 +1,4 @@
+DOMAIN,ai.semi-tech.com // SEMI-TECH
+DOMAIN,redmine.semi-tech.com // SEMI-TECH
+IP-CIDR,30.100.0.1,no-resolve // SEMI-TECH
+IP-CIDR,10.16.0.0/16,no-resolve // SEMI-TECH
