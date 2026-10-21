@@ -18,6 +18,7 @@ Proxy rules
 | `muse.list` | Muse / Llama / Meta AI |
 | `trae.list` | Trae |
 | `windsurf.list` | Windsurf / Codeium |
+| `other-ai.list` | OpenRouter / Poe |
 
 2026-10-21 根据 `jinxinkai/clash-ai-rules` 的 `81e4f7a` 快照补齐规则，保留本地已有扩展。
 
