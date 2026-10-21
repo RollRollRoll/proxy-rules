@@ -1,4 +1,8 @@
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,hcaptcha.com
@@ -41,6 +45,9 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
-IP-CIDR,24.199.123.28/32
-IP-CIDR,64.23.132.171/32
-IP-ASN,20473
+# 此关键字也覆盖上游 chatgpt-async-webps-prod 的域名正则
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,codex
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-ASN,20473,no-resolve
