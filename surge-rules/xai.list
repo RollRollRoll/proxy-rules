@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,spacex.com
 # 额外补充：Grok 与 xAI 主域名，非上游快照中的规则
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
